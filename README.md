@@ -11,3 +11,11 @@ Checks include:
 - Memory utilization
 - Disk utilization
 - Service status
+
+## Monitoring Details
+
+CPU Monitoring:
+Checks CPU utilization to identify high CPU usage.
+
+Memory Monitoring:
+Checks available and used memory to identify memory pressure.
